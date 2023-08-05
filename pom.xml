@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.decadev</groupId>
-	<artifactId>A-moey-wallet-solution</artifactId>
+	<artifactId>A-money-wallet-solution</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>money-way</name>
 	<description>A project to manage funds and transfer</description>
